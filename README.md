@@ -1,1 +1,1 @@
-# QR_codec_component
+# QR_code_component
